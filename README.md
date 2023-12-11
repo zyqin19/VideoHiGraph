@@ -2,6 +2,7 @@
 Code for AAAI 2023 paper: Exposing the Self-supervised Space-Time Correspondence Learning via Graph Kernels
 ![arch](img/arch.png)
 
+This repository has been merged into https://github.com/zyqin19/HiGraph
 
 ## Installation
 Our HiGraph depends on PyTorch, MMCV, MMAction2. Below are quick steps for installation. Please refer to install.md for more detailed instruction.
